@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1599653788 source:c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\fuse.c
+	<avr/io.h>
+
+1599663688 source:c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\gpio.c
+	"gpio.h"
+
+1599663204 c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\gpio.h
+	<avr/io.h>
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1599765552 c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\main.h
+
+1599765416 source:c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\main.c
+	<avr/io.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<avr/interrupt.h>
+	"main.h"
+	"uart.h"
+	"tim.h"
+	"gpio.h"
+
+1599662657 c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\uart.h
+	<avr/io.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<avr/interrupt.h>
+	"main.h"
+
+1599659772 c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\tim.h
+	<avr/io.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<avr/interrupt.h>
+	"main.h"
+
+1599661969 source:c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\tim.c
+	"tim.h"
+
+1599663437 source:c:\users\radim\documents\codeblocks_projects\ard_nano_trx_v8\uart.c
+	"uart.h"
+

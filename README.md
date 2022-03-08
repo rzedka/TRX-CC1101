@@ -3,11 +3,11 @@ This repo contains my own design of wireless communication protocol using CC1101
 
 
 TRX devices\
-<img src="https://drive.google.com/uc?export=view&id=1Uci1UT0_EOHAvdtt0YMWxeMCOk1tThMh" width=400 title="Hand devices">
+<img src="https://drive.google.com/uc?export=view&id=1Uci1UT0_EOHAvdtt0YMWxeMCOk1tThMh" width=500 title="Hand devices">
 
 
 Yagi-Uda antenna\
-<img src="https://drive.google.com/uc?export=view&id=11tkwsAlljjqIFOGZduAgbeYCxE5YX0Wh" width=400 title="Hand devices">
+<img src="https://drive.google.com/uc?export=view&id=11tkwsAlljjqIFOGZduAgbeYCxE5YX0Wh" width=500 title="Hand devices">
 
 
 
